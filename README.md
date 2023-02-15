@@ -1,4 +1,4 @@
-### Shell-Encrypt-Tool
+# Shell-Encrypt-Tool
 
 
 This is an Simple shell script (.sh) Encryption Script 
@@ -8,7 +8,7 @@ This is an Simple shell script (.sh) Encryption Script
  ● Please Fork This Repo
 
 
-# Tutorial 
+## Tutorial 
 
   • 
   
