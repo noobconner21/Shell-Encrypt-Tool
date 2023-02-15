@@ -10,7 +10,7 @@ This is an Simple shell script (.sh) Encryption Script
 
 ## Tutorial 
 
-  • 
+  • https://t.me/shaystudiolab/223
   
    
 By Project SSLaB LK 🇱🇰
